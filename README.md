@@ -18,4 +18,4 @@ As the result, the generated trajectory is implemented at the dynamic environmen
 
 Here is the result:
 
-<img src="https://github.com/user-attachments/assets/a7733afb-b96d-4150-a240-dc72e0faecb5" width="400px" />
+<img src="https://github.com/user-attachments/assets/a7733afb-b96d-4150-a240-dc72e0faecb5" width="600px" />
